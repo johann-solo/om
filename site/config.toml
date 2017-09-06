@@ -2,12 +2,12 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Minimal"
 theme = "om"
-disqusShortname = "username" # delete this to disable disqus comments
+disqusShortname = "Joanne" # delete this to disable disqus comments
 
 [params]
     author = "Calin Tataru"
     description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
+
 
 [[menu.main]]
     url = "/"
